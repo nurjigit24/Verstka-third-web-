@@ -1,6 +1,4 @@
 
-
-
 const swiperOne = new Swiper('.swiperOne', {
   slidesPerView: 3,
   spaceBetween: 24,
@@ -16,3 +14,4 @@ const swiperOne = new Swiper('.swiperOne', {
     prevEl: '.swiper-prev',
   },
 })
+
