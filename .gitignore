@@ -1,0 +1,6 @@
+gitignore
+
+node_modules
+gsap.js
+package-lock.json
+
